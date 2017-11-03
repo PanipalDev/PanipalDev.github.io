@@ -1,0 +1,24 @@
+body{
+	background-color: black;
+}
+
+.haha {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 42px;
+	color: white;
+}
+
+.cool {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 26px;
+	color: white;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 34px;
+	color: white;
+}
